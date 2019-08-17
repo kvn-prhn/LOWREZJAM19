@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "backdrop",
+	"frame": {"x":0,"y":378,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "demonface1",
+	"frame": {"x":172,"y":0,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "demonface2",
+	"frame": {"x":300,"y":0,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "face1",
+	"frame": {"x":28,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "face2",
+	"frame": {"x":60,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "face3",
+	"frame": {"x":44,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "instructions1",
+	"frame": {"x":256,"y":378,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "repeatbg1",
+	"frame": {"x":0,"y":506,"w":512,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":128},
+	"sourceSize": {"w":512,"h":128}
+},
+{
+	"filename": "screwthis",
+	"frame": {"x":364,"y":0,"w":82,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":150},
+	"sourceSize": {"w":82,"h":150}
+},
+{
+	"filename": "slotbanner1",
+	"frame": {"x":14,"y":0,"w":14,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":136},
+	"sourceSize": {"w":14,"h":136}
+},
+{
+	"filename": "slotbanner2",
+	"frame": {"x":0,"y":0,"w":14,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":136},
+	"sourceSize": {"w":14,"h":136}
+},
+{
+	"filename": "slotmachine",
+	"frame": {"x":0,"y":150,"w":82,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":52},
+	"sourceSize": {"w":82,"h":52}
+},
+{
+	"filename": "slotset1",
+	"frame": {"x":108,"y":0,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "slotset2",
+	"frame": {"x":236,"y":0,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "slotset3",
+	"frame": {"x":210,"y":150,"w":128,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":64},
+	"sourceSize": {"w":128,"h":64}
+},
+{
+	"filename": "slotset4",
+	"frame": {"x":82,"y":150,"w":128,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":64},
+	"sourceSize": {"w":128,"h":64}
+},
+{
+	"filename": "sparkle",
+	"frame": {"x":0,"y":250,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "sparkleEvil",
+	"frame": {"x":256,"y":250,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "table",
+	"frame": {"x":338,"y":150,"w":160,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":100},
+	"sourceSize": {"w":160,"h":100}
+},
+{
+	"filename": "tabler",
+	"frame": {"x":76,"y":0,"w":32,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":128},
+	"sourceSize": {"w":32,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameimgs.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":634},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bcf872463177dad92f9fa14b294f5d92:6546e1c3ce7d17fad6139ee59b71083d:d27ab418908a8208b1bb3d9917ac12eb$"
+}
+}
